@@ -1,2 +1,2 @@
 # DataScienceTraining
-training for alex
+training for alex j
